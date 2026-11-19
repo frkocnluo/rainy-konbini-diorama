@@ -1,0 +1,15 @@
+{
+  "name": "rainy-konbini-diorama",
+  "version": "1.0.0",
+  "description": "Japanese rainy night convenience store corner 3D anime cel-shaded diorama",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.187.0",
+    "vite": "^8.3.8"
+  }
+}
